@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jailbreak_detect_git.iml" filepath="$PROJECT_DIR$/jailbreak_detect_git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/jailbreak_detect_git_android.iml" filepath="$PROJECT_DIR$/android/jailbreak_detect_git_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/jailbreak_detect_git_example_android.iml" filepath="$PROJECT_DIR$/example/android/jailbreak_detect_git_example_android.iml" />
+    </modules>
+  </component>
+</project>
